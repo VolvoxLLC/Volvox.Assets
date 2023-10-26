@@ -1,2 +1,2 @@
-Blue: #1867e9
+Blue: #218AFF
 Green: #66cc33
